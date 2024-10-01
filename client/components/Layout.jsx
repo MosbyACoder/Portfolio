@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 export default function Layout() {
     return (
+        <>
         <div>
             <h1>Lucas Fraser's Portfolio</h1>
             <nav>
@@ -15,5 +16,6 @@ export default function Layout() {
             </nav>
             <hr />
         </div>
+        </>
     );
 }

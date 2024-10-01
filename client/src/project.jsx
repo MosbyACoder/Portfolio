@@ -1,6 +1,7 @@
 
 export default function Project(){
     return (
+        <>
         <div>
             <h1>Projects page</h1>
             <br />
@@ -13,5 +14,6 @@ export default function Project(){
             <p>Project 3: use Ipad as drawing tablet</p>
             <p>project blue is closest I've found to the idea. Essentially uses Ipad as a spare monitor.</p>
         </div>
+        </>
     );
 }
