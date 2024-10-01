@@ -4,19 +4,20 @@ import '../src/about.css'
 export default function About(){
     return (
         <>
+        <h1>About Me Page</h1> 
         <div class="wrapper">
             <div class="box">
                 <div class="pic">
                     <img src={selfpic} alt="self portrait"></img>
                 </div>
                 <div class="txt">
-                    Lucas Fraser
+                    <h3>Lucas Fraser</h3>
+                    <p>Student at Centennial College</p>
+                    <p>Software Engineering Technology - Artificial Intelligence</p>
+                    <p>class: Web Application Development - COMP229</p>
                 </div>
-            </div>
-            <h1>About Me Page</h1>            
-            <p>Student of Web Application Development</p>
-            <p>at Centennial College</p>
-            <p>for Software Engineering - Artificial Intelligence</p>
+            </div>   
+
         </div>
         </>
     );
