@@ -1,5 +1,5 @@
 
-export default function Education(){
+export default function Project(){
     return (
         <div>
             <h2>Projects page</h2>

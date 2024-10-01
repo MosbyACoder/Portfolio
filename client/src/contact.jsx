@@ -7,5 +7,5 @@ export default function Contact() {
             <p>phone: 613-485-6549</p>
             <p>email: lfrase15@my.centennialcollege.ca</p>
         </div>
-    )
+    );
 }
