@@ -2,7 +2,7 @@
 export default function Project(){
     return (
         <div>
-            <h2>Projects page</h2>
+            <h1>Projects page</h1>
             <br />
             <p>Project 1: educational application for learning langauges.</p>
             <p>closest app I have found is Mondly by Pearson. App can be used in virtual reality with meta quest vr headsets.</p>
