@@ -13,5 +13,5 @@ export default function Education(){
             <p>Project 3: use Ipad as drawing tablet</p>
             <p>project blue is closest I've found to the idea. Essentially uses Ipad as a spare monitor.</p>
         </div>
-    )
+    );
 }
