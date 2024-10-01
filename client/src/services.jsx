@@ -2,6 +2,7 @@
 export default function Services(){
     return (
         <div>
+            <h1>Services Page</h1>
             <p>Services I can provide include</p>
             <ul>
                 <li>Web Designer using html, css, and javascript</li>
