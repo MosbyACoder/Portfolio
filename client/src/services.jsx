@@ -2,7 +2,7 @@
 export default function Services(){
     return (
         <>
-        <div>
+        <div class="wrapper">
             <h1>Services Page</h1>
             <p>Services I can provide include</p>
             <ul>

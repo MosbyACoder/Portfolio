@@ -2,7 +2,7 @@
 export default function Home(){
     return (
         <>
-         <div>
+         <div class="wrapper">
         <p>Home Page</p>
         <h1>Lucas Fraser's assignment 1</h1>
         <p>Student of Web Application Development</p>

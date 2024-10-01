@@ -2,7 +2,7 @@
 export default function Project(){
     return (
         <>
-        <div>
+        <div class="wrapper">
             <h1>Projects page</h1>
             <br />
             <p>Project 1: educational application for learning langauges.</p>

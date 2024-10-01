@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 export default function Layout() {
     return (
         <>
-        <div>
+        <div class="wrapper">
             <h1>Lucas Fraser's Portfolio</h1>
             <nav>
                 <Link to="/">Home</Link> |

@@ -2,7 +2,7 @@
 export default function About(){
     return (
         <>
-        <div>
+        <div class="wrapper">
             <h1>About Me Page</h1>            
             <p>Student of Web Application Development</p>
             <p>at Centennial College</p>
