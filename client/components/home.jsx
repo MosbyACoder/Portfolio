@@ -1,5 +1,5 @@
 
-export default function home(){
+export default function Home(){
     return <div>
         <p>Home Page</p>
         <h1>Lucas Fraser's assignment 1</h1>
