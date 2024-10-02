@@ -8,7 +8,7 @@ export default function Project(){
         <>
         <div class="wrapper">
             <h1>Projects page</h1>
-            <p>I did not develop these applications. </p>
+            <p>*I did not develop these applications.*</p>
             <p>These are highlightable programs that are indicative for me wanting to develop software.</p>
             <p>These bear the closest resemblance to ideas I've had for software I want to build. </p>
             <div class="box">
