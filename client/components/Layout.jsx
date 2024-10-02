@@ -6,6 +6,8 @@ export default function Layout() {
     return (
         <>
         <div class="wrapper">
+            <div class="logo"></div>
+            <div class="logo2"></div>
             <h1>Lucas Fraser's Portfolio</h1>
             <nav>
                 <Link to="/">Home</Link> |
