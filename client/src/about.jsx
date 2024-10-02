@@ -3,9 +3,9 @@ import '../src/about.css'
 
 export default function About(){
     return (
-        <>
-        <h1>About Me Page</h1> 
+        <>         
         <div class="wrapper">
+            <h1>About Me Page</h1>
             <div class="box">
                 <div class="pic">
                     <img src={selfpic} alt="self portrait"></img>
