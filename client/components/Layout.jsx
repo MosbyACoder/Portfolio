@@ -1,3 +1,9 @@
+/*
+File name: Layout.jsx
+Student name: Lucas Fraser
+Student ID: 300725181
+Date: Oct 1, 2024
+*/
 
 import React from 'react';
 import { Link } from 'react-router-dom';

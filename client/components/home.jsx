@@ -1,3 +1,9 @@
+/*
+File name: Home.jsx
+Student name: Lucas Fraser
+Student ID: 300725181
+Date: Oct 1, 2024
+*/
 
 export default function Home(){
     return (

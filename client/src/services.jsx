@@ -1,3 +1,10 @@
+/*
+File name: services.jsx
+Student name: Lucas Fraser
+Student ID: 300725181
+Date: Oct 1, 2024
+*/
+
 import webdesign from '../src/assets/webdesigning.png'
 import appdesign from '../src/assets/csharp.jpg'
 import '../src/services.css'

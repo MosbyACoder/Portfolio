@@ -1,3 +1,10 @@
+/*
+File name: contact.jsx
+Student name: Lucas Fraser
+Student ID: 300725181
+Date: Oct 1, 2024
+*/
+
 import selfpic from '../src/assets/selfpicture.jpg'
 import '../src/contact.css'
 

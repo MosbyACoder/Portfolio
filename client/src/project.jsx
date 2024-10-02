@@ -1,3 +1,10 @@
+/*
+File name: project.jsx
+Student name: Lucas Fraser
+Student ID: 300725181
+Date: Oct 1, 2024
+*/
+
 import mondly from '../src/assets/mondlylogo.png'
 import synergy from '../src/assets/synergy_banner.png'
 import astropad from '../src/assets/astropad.png'

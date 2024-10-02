@@ -1,3 +1,10 @@
+/*
+File name: MainRouter.jsx
+Student name: Lucas Fraser
+Student ID: 300725181
+Date: Oct 1, 2024
+*/
+
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from '/components/Home'
