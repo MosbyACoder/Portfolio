@@ -1,4 +1,5 @@
 import selfpic from '../src/assets/selfpicture.jpg'
+import '../src/contact.css'
 
 export default function Contact() {
     return (
@@ -16,6 +17,29 @@ export default function Contact() {
                         <li>email: lfrase15@my.centennialcollege.ca</li>
                     </ul>
                 </div>
+            </div>
+            <div>
+                <form action="mailto:lfrase15@my.centennialcollege.ca" method="post">
+                    <main>
+                        <label for="fName">First Name:
+                            <input type="text" name="fName" id="fName" />
+                        </label>
+
+                        <label for="lName">Last Name:
+                            <input type="text" name="lName" id="lName" />
+                        </label>
+
+                        <label for="email">E-mail:
+                            <input type="text" name="email" id="email" />
+                        </label>
+
+                        <label for="remarks">Comments:
+                            <textarea name="remarks" id="remarks" rows="3" cols="22"></textarea>
+                        </label>
+
+                        <input type="submit" value="Submit" />
+                    </main>
+                </form>
             </div>
         </div>
         </>

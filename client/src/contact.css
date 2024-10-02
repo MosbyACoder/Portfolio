@@ -1,0 +1,19 @@
+form { 
+    display: flex;
+    background-color: rgb(180, 179, 179);
+    font-family: Arial, sans-serif;
+    width: 375px; 
+    padding: 10px;
+}
+input, textarea {
+    margin-top:5px;
+}
+
+label { 
+    float: left; 
+    clear: left;
+	display: block; 
+    width: 120px; 
+	text-align: right;
+    margin-top: 10px; 
+}
